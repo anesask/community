@@ -6,6 +6,12 @@
 # production
 /build
 
+# dist
+/dist
+
+# DB Migrations
+/src/migrations
+
 # config
 /config/config.js
 
